@@ -26,7 +26,7 @@ GOOGLE_TOKEN_URL = "https://oauth2.googleapis.com/token"
 GOOGLE_USER_URL  = "https://www.googleapis.com/oauth2/v3/userinfo"
 
 GSCOPES = [
-    "https://spreadsheets.google.com/feeds",
+    "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive",
 ]
 
