@@ -1,0 +1,7 @@
+streamlit
+authlib
+requests
+gspread
+google-auth
+qrcode[pil]
+Pillow

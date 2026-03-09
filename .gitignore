@@ -1,0 +1,12 @@
+# Secrets — never push to GitHub!
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Generated files (optional — keep if you want them versioned)
+# event_qr.png
+# log.db
