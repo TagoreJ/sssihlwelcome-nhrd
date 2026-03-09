@@ -19,7 +19,7 @@ CLIENT_SECRET = st.secrets["GOOGLE_CLIENT_SECRET"]
 FAST2SMS_KEY  = st.secrets["FAST2SMS_KEY"]
 
 # ⬇️  Update this to your Streamlit Cloud login app URL after deploying
-REDIRECT_URI = "https://ssihl-login.streamlit.app/"
+REDIRECT_URI = "https://sssihlxnhrd.streamlit.app/"
 
 GOOGLE_AUTH_URL  = "https://accounts.google.com/o/oauth2/v2/auth"
 GOOGLE_TOKEN_URL = "https://oauth2.googleapis.com/token"
